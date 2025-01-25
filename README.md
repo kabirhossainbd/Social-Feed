@@ -10,8 +10,8 @@ A Social Feed App built with Flutter, designed to provide users with a seamless 
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/df79a6ff-79d0-44f2-a350-a642bc1bf611" width="300" alt=""/>
-<img src="https://github.com/user-attachments/assets/d025a48a-fc5c-4b34-9c91-d92406042a8e" width="300" alt=""/>
 <img src="https://github.com/user-attachments/assets/20c503a2-417e-4c3e-bcec-64cdcfe6ba62" width="300" alt=""/>
+<img src="https://github.com/user-attachments/assets/d025a48a-fc5c-4b34-9c91-d92406042a8e" width="300" alt=""/>
 </div>
 
 
